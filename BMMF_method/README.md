@@ -1,6 +1,6 @@
 # BMMF_method
 
-BMMF\_Method is a python package that finds the best motifs among multiple sequences using the ***loopy belief propagation*** (based off of [M are better than one: an ensemble-based motif finder and its application to regulatory element prediction](https://academic.oup.com/bioinformatics/article/25/7/868/211358)).
+BMMF\_Method is a python package that finds the best motifs among multiple sequences using the ***loopy belief propagation*** (based on [*M are better than one: an ensemble-based motif finder and its application to regulatory element prediction*](https://academic.oup.com/bioinformatics/article/25/7/868/211358)).
 
 ## Usage
 

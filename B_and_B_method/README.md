@@ -1,6 +1,6 @@
 # B_and_B_method
 
-B\_and\_B\_method is a python package that finds the best motifs among multiple sequences using the ***branch-and-bound algorithm*** (based off of [*A maximum edge-weight clique extraction algorithm based on branch-and-bound*](https://www-sciencedirect-com.proxy.library.carleton.ca/science/article/pii/S1572528620300177?via%3Dihub)).
+B\_and\_B\_method is a python package that finds the best motifs among multiple sequences using the ***branch-and-bound algorithm*** (based on [*A maximum edge-weight clique extraction algorithm based on branch-and-bound*](https://www-sciencedirect-com.proxy.library.carleton.ca/science/article/pii/S1572528620300177?via%3Dihub)).
 
 ## Usage
 

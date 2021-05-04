@@ -1,6 +1,6 @@
 # M_best_ILP
 
-M\_best\_ILP is a python package that finds the best motifs among multiple sequences using the ***ILP Formulation*** (based off of [A combinatorial optimization approach for diverse motif finding applications](https://link.springer.com/article/10.1186/1748-7188-1-13)).
+M\_best\_ILP is a python package that finds the best motifs among multiple sequences using the ***ILP Formulation*** (based on [*A combinatorial optimization approach for diverse motif finding applications*](https://link.springer.com/article/10.1186/1748-7188-1-13)).
 
 ## Usage
 
